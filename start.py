@@ -67,7 +67,6 @@ if operation=='op':
         print('add    -------------------------   Add credentials\n')
         print('del    -------------------------   Delete  credential\n')
         print('del-a  -------------------------   Delete all\n')
-        print('date   -------------------------   To update name\n')
         print('sp     -------------------------   To show password for account\n')
         print('dc     -------------------------   display credential accounts\n')
         print('ex     -------------------------   Exit application\n')
